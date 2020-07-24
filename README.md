@@ -1,5 +1,5 @@
 # discord-bot-website-template
-An opensource discord bot website template that you can use to make your bot seem more professional!
+An opensource discord bot website template that you can use to make your bot seem more professional! This is a part of the [opensource discord-resources repository](https://github.com/TrustedMercury/discord-resources)
 
 ## Tutorial
 1. Clone the repository on your local computer.
