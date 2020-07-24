@@ -1,3 +1,10 @@
+
+/* Montserrat Font */
+.font-montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Disables Selecting and Dragging */
 .noselect {
     -webkit-touch-callout: none;
     -webkit-user-select: none;
@@ -9,6 +16,10 @@
     user-drag: none;
 }
 
+
+/* CSS Animations */
+
+/* Hover Grow */
 .hvr-grow {
   display: inline-block;
   vertical-align: middle;
